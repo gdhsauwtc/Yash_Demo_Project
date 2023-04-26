@@ -1,0 +1,20 @@
+12:43:26.539 [main] INFO  testCases.TC_001_TestRegistration - ****TC_001_TestRegistration start*****  
+12:43:28.942 [main] INFO  testCases.TC_001_TestRegistration - *****finish this TC_001_TestRegistration test***
+11:32:13.302 [main] INFO  testCases.TC_001_TestRegistration - ****TC_001_TestRegistration start*****  
+11:32:15.679 [main] INFO  testCases.TC_001_TestRegistration - *****finish this TC_001_TestRegistration test***
+11:33:03.496 [main] INFO  testCases.TC_001_TestRegistration - ****TC_001_TestRegistration start*****  
+11:33:05.776 [main] INFO  testCases.TC_001_TestRegistration - *****finish this TC_001_TestRegistration test***
+12:05:27.432 [TestNG-tests-1] INFO  testCases.TC_001_TestRegistration - ****TC_001_TestRegistration start*****  
+12:05:29.112 [TestNG-tests-2] INFO  testCases.TC_001_TestRegistration - ****TC_001_TestRegistration start*****  
+12:05:29.354 [TestNG-tests-1] INFO  testCases.TC_001_TestRegistration - *****finish this TC_001_TestRegistration test***
+12:05:31.385 [TestNG-tests-2] INFO  testCases.TC_001_TestRegistration - *****finish this TC_001_TestRegistration test***
+12:37:42.825 [main] INFO  testCases.TC_001_TestRegistration - ****TC_001_TestRegistration start*****  
+12:37:45.226 [main] INFO  testCases.TC_001_TestRegistration - *****finish this TC_001_TestRegistration test***
+10:59:53.412 [main] INFO  testCases.TC_001_TestRegistration - ****TC_001_TestRegistration start*****  
+10:59:55.581 [main] INFO  testCases.TC_001_TestRegistration - *****finish this TC_001_TestRegistration test***
+11:06:44.078 [main] INFO  testCases.TC_001_TestRegistration - ****TC_001_TestRegistration start*****  
+11:06:46.331 [main] ERROR testCases.TC_001_TestRegistration - test fail
+12:54:52.892 [main] INFO  testCases.TC_002_TestLogin - ****TC_002_TestLogin Start*****
+12:54:53.983 [main] INFO  testCases.TC_002_TestLogin - ****TC_002_TestLogin_End
+14:15:29.048 [main] INFO  testCases.TC_001_TestRegistration - ****TC_001_TestRegistration start*****  
+14:15:31.243 [main] ERROR testCases.TC_001_TestRegistration - test fail
